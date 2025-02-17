@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Signika+Negative&weight=600&size=36&pause=1000&color=39C5BB&center=true&width=435&lines=Hi++there+%F0%9F%91%8B+Welcome%F0%9F%A5%B0+I'm+HatsuChuwu." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Signika+Negative&weight=600&size=36&pause=1000&color=39C5BB&center=true&width=800&height=60&lines=Hi++there+%F0%9F%91%8B+Welcome%F0%9F%A5%B0+I'm+HatsuChuwu." alt="Typing SVG" /></a>
 
 [![Visitor Count](https://count.getloli.com/@chuwu?name=chuwu&theme=booru-lisu&padding=8&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto)](https://count.getloli.com/)
 
