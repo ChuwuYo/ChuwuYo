@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Visitor Count](https://count.getloli.com/@chuwu?name=chuwu&theme=booru-lisu&padding=8&offset=0&align=top&scale=0&pixelated=1&darkmode=auto)](https://count.getloli.com/)
+[![Visitor Count](https://count.getloli.com/@chuwu?name=chuwu&theme=booru-lisu&padding=8&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto)](https://count.getloli.com/)
 
 
 <!--
