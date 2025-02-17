@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Visitor Count](https://count.getloli.com/@chuwu?name=chuwu&theme=booru-lisu&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://count.getloli.com/)
+[![Visitor Count](https://count.getloli.com/@chuwu?name=chuwu&theme=booru-lisu&padding=8&offset=0&align=top&scale=2&pixelated=1&darkmode=auto)](https://count.getloli.com/)
+
 
 <!--
 **HatsuChuwu/HatsuChuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
