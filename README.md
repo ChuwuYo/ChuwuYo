@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://count.getloli.com/@chuwu?name=chuwu&theme=booru-lisu&padding=8&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto" alt="Visitor Count">
 </p>
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HatsuChuwu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
