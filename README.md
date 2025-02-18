@@ -6,12 +6,12 @@
 
 <h2>Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuChuwu&card_width=600" alt="我的 GitHub 统计"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuChuwu&card_width=600" alt="Languages"/>
 </p>
 
 <h2>📈 我的 GitHub 统计</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HatsuChuwu&show_icons=true&theme=radical&count_private=true" alt="我的 GitHub 统计"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HatsuChuwu&show_icons=true&theme=ambient_gradient&count_private=true" alt="我的 GitHub 统计"/>
 </p>
 
 
