@@ -4,9 +4,10 @@
   <img src="https://count.getloli.com/@chuwu?name=chuwu&theme=booru-lisu&padding=8&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto" alt="Visitor Count">
 </p>
 
-## Languages
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuChuwu&card_width=465)
+<h2>Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuChuwu&card_width=600" alt="我的 GitHub 统计"/>
+</p>
 
 <h2>📈 我的 GitHub 统计</h2>
 <p align="center">
