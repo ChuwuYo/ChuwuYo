@@ -14,6 +14,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HatsuChuwu&show_icons=true&theme=ambient_gradient&count_private=true" alt="我的 GitHub 统计"/>
 </p>
 
+💻 Environment
+
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
+
 
 <!--
 **HatsuChuwu/HatsuChuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
