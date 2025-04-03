@@ -4,6 +4,10 @@
   <img src="https://count.getloli.com/@chuwu?name=chuwu&theme=booru-lisu&padding=8&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto" alt="Visitor Count">
 </p>
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/b19d157a-dda4-4eba-b2e9-36cbc2eb1cd2" alt="hi" width="200" height="200">
+</div>
+
 <h2>⚙️ Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuChuwu&hide=Tex&card_width=560" alt="Languages"/>
