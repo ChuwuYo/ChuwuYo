@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/b19d157a-dda4-4eba-b2e9-36cbc2eb1cd2" alt="hi" width="200" height="200">
+    <img src="https://github.com/user-attachments/assets/b19d157a-dda4-4eba-b2e9-36cbc2eb1cd2" alt="hi" width="100" height="100">
 </div>
 
 <h2>⚙️ Languages</h2>
