@@ -35,7 +35,7 @@
 
 <h2 align="center">🎉很高兴见到你</h2>
 
-###
+---
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/b19d157a-dda4-4eba-b2e9-36cbc2eb1cd2" alt="hi" width="100" height="100">
