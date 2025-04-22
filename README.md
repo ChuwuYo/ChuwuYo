@@ -23,12 +23,14 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
+
+
+<p></p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF" alt="Windows 11"/>
