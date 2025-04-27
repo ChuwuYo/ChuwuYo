@@ -6,7 +6,7 @@
 
 <h2>⚙️ Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuwu180&hide=Tex&card_width=560" alt="Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuwu180&hide=Tex&card_width=540" alt="Languages"/>
 </p>
 
 <h2>📈 My GitHub statistics</h2>
