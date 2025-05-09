@@ -7,8 +7,7 @@
 <h2>⚙️ Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChuwuYo&hide=Tex&card_width=540" alt="Languages"/>
-  <a href="https://raw.githubusercontent.com/ChuwuYo/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-  <img align="right" width="50%" src="https://raw.githubusercontent.com/ChuwuYo/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
+
 </p>
 
 <h2>📈 My GitHub statistics</h2>
