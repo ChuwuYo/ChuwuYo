@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=chrome" height="40" alt="chrome logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 <p></p>
