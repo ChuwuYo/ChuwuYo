@@ -12,6 +12,7 @@
 
 <h2>📈 My GitHub statistics</h2>
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChuwuYo&theme=dracula" alt="我的 GitHub 总计"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ChuwuYo&show_icons=true&theme=ambient_gradient&count_private=true" alt="我的 GitHub 统计"/>
 </p>
 
