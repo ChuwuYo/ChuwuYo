@@ -26,8 +26,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
@@ -44,5 +42,5 @@
 
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/b19d157a-dda4-4eba-b2e9-36cbc2eb1cd2" alt="hi" width="100" height="100">
+    <img src="https://github.com/user-attachments/assets/4a285e13-ebda-4741-b0e0-4ef41514ac2c" alt="hi" width="100" height="100">
 </div>
