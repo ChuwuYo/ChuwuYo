@@ -1,7 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Signika+Negative&weight=600&size=36&pause=1000&color=39C5BB&center=true&width=1000&height=60&lines=Hi++there+%F0%9F%91%8B+Welcome+to+my+page%F0%9F%A5%B0+I'm+Chuwu" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Signika+Negative&weight=600&size=36&pause=1000&color=39C5BB&center=true&width=1000&height=60&lines=Hi++there+%F0%9F%91%8B+Welcome+to+my+page%F0%9F%A5%B0+I'm+Chuwu" alt="Hello World!" /></a>
 
 <p align="center">
   <img src="https://count.getloli.com/@chuwu?name=chuwu&theme=booru-lisu&padding=8&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto" alt="Visitor Count">
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Long+Cang&size=30&duration=3800&pause=5000&color=70F7EB&background=CAC1DC73&center=true&vCenter=true&repeat=false&width=600&lines=%E6%97%B6%E5%85%89%E6%B5%81%E8%BD%AC%EF%BC%8C%E6%84%BF%E4%BD%A0%E8%83%BD%E4%B8%8E%E9%87%8D%E8%A6%81%E4%B9%8B%E4%BA%BA%E9%87%8D%E9%80%A2" alt="可塑性记忆" /></a>
 </p>
 
 <h2>⚙️ Languages</h2>
