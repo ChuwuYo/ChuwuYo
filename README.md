@@ -11,7 +11,7 @@
 
 <div align="center">
 
-## [🪪 ChuwuBlog](https://chuwu.dpdns.org/)
+## [🪪 ChuwuBlog](https://blog.chuwu.top/)
 
 </div>
 
