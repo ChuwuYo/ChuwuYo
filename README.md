@@ -11,7 +11,7 @@
 
 <div align="center">
 
-## [🪪 ChuwuBlog](https://blog.chuwu.top/)
+[![ChuwuBlog](https://img.shields.io/badge/Blog-Fuwari?style=flat&logo=4chan&logoSize=auto&label=Chuwu&labelColor=%2369cfe3&color=%23e6cdb5)](https://blog.chuwu.top/)
 
 </div>
 
