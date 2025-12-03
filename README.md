@@ -17,12 +17,12 @@
 
 <h2>⚙️ Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuwuyo&hide=&card_width=600&langs_count=8&layout=compact&hide_progress=false&exclude_repo=misc-files" alt="Languages"/>
+  <img src="https://github-readme-stats-phi-sable-43.vercel.app/api/top-langs/?username=chuwuyo&hide=&card_width=600&langs_count=8&layout=compact&hide_progress=false&exclude_repo=misc-files,github-readme-stats,Study-Chuwu,experment4_USART_WaterFlow_LED,MQTT-Onenet" alt="Languages"/>
 </p>
 
 <h2>📈 My GitHub statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChuwuYo&show_icons=true&theme=ambient_gradient&count_private=true&card_width=600" alt="我的 GitHub 统计"/>
+  <img src="https://github-readme-stats-phi-sable-43.vercel.app/api?username=ChuwuYo&show_icons=true&theme=ambient_gradient&count_private=true&card_width=600" alt="我的 GitHub 统计"/>
 </p>
 
 <h2>💻 Environment</h2>
