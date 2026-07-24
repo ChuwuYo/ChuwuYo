@@ -44,7 +44,8 @@
 <p></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF" alt="Windows 11"/>
+  <img src="https://img.shields.io/badge/macOS-555555?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=555555" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square" alt="Windows"/>
   <img src="https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000" alt="Android"/>
 </p>
 
