@@ -17,7 +17,7 @@
 
 <h2>⚙️ Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats-phi-sable-43.vercel.app/api/top-langs/?username=chuwuyo&hide=html,css&card_width=600&langs_count=10&layout=compact&hide_progress=false&exclude_repo=misc-files,github-readme-stats,Study-Chuwu,Prompts,ChuwuYo,pinpoint" alt="Languages"/>
+  <img src="https://github-readme-stats-phi-sable-43.vercel.app/api/top-langs/?username=chuwuyo&hide=html,css&card_width=600&langs_count=10&layout=compact&hide_progress=false&exclude_repo=misc-files,github-readme-stats,Study-Chuwu,Prompts,ChuwuYo" alt="Languages"/>
 </p>
 
 <h2>📈 My GitHub statistics</h2>
